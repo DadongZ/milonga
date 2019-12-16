@@ -1,0 +1,16 @@
+Package: milonga 
+Type: Package
+Title: Multiple Imputation for Repeated Binary Outcome 
+Version: 2.03
+Date: 2017-02-22
+Author: Dadong Zhang, Josyf C. Mychaleckyj
+Maintainer: Dadong Zhang <ddzhangzz@gmail.com>
+Description: Multiple imputation of missing values in repeated binary outcomes using Gibbs sampling 
+License: MIT 
+Depends:
+    R (>= 3.0.0),
+    MCMCpack,
+    PropCIs,
+    pbapply
+LazyData: true
+RoxygenNote: 6.0.1
