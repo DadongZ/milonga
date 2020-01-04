@@ -4,9 +4,6 @@ Multiple imputation for binary surveillance data with dropouts
 ## Author
 Dadong Zhang, Josyf C Mychaleckyj
 
-## Maintainer
-Yuchao Jiang <yuchaoj@email.unc.edu>
-
 ## Description
 Multiple imputation for binary surveillance data with dropouts based on permutations.
 
