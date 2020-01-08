@@ -11,6 +11,12 @@ Multiple imputation for binary surveillance data with dropouts based on permutat
 ```r
 install.packages('devtools')
 devtools::install_github("DadongZ/milonga")
+
+#example
+library(milonga)
+?milonga::milonga
+data(polio)
+milonga(polio, cols=2:7)
 ```
 
 ## Questions?
